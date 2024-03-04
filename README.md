@@ -14,8 +14,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jaspertan-03&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/jaspertan-03/jaspertan-03/output/snake.svg" alt="Snake animation" />
-
 [![](https://visitcount.itsvg.in/api?id=jaspertan-03&icon=4&color=7)](https://visitcount.itsvg.in)
 
 <!--
