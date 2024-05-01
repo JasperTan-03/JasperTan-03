@@ -3,7 +3,7 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jasper--tan/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasper--tan/) 
 [![Gmail Badge](https://img.shields.io/badge/-jaspertan@utexas.edu-c14438?logo=Gmail&logoColor=white&link=mailto:y@yycc.me)](mailto:jaspertan@utexas.edu)
 
 ### 💻 Tech Stack:
