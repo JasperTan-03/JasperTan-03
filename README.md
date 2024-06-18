@@ -11,9 +11,6 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jaspertan-03&theme=onedark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaspertan-03&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
 [![](https://visitcount.itsvg.in/api?id=jaspertan-03&icon=4&color=7)](https://visitcount.itsvg.in)
 
 <!--
